@@ -4,6 +4,7 @@ from reitcourse import __version__
 
 def foo1(a):
   b = 0
+  e=15
   c = a + 1  
   if a > 0:
     if a > 10:

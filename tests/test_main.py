@@ -5,6 +5,13 @@ import pytest
 from reitcourse.main import add
 
 
+def foo1(a):
+    c = a + 1
+    if a > 0 and a > 10:
+        return 10
+    return a + c
+
+
 def test_add__two_integers():
     expected = 5
     result = add(2, 3)

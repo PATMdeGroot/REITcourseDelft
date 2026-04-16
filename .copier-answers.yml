@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: v0.5.0
+_src_path: git+https://gitlab.ewi.tudelft.nl/reit/python-package-template
+email: p.a.t.m.degroot@tudelft.nl
+environment_manager: uv
+full_name: Peter de Groot
+host: gitlab.ewi.tudelft.nl
+license: MIT
+min_python_version: '3.10'
+org: patmdegroot
+project_name: REITcourse
+project_short_description: A great package.
+url: https://gitlab.ewi.tudelft.nl/patmdegroot/REITcourse

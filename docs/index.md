@@ -1,0 +1,2 @@
+# REITcourse
+::: reitcourse.main

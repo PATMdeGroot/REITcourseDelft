@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: REITcourse
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+version: 0.0.1
+authors:
+  - given-names: Peter
+    family-names: de Groot
+    email: p.a.t.m.degroot@tudelft.nl
+    affiliation: TU Delft
+repository-code: https://gitlab.ewi.tudelft.nl/patmdegroot/REITcourse
+license: MIT
+# identifiers:
+#   - type: doi
+#     value: 10.5281/zenodo.1234 # Uncomment this and replace it with a real DOI

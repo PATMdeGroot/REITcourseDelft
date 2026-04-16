@@ -32,7 +32,7 @@ source = "vcs"
 version-file = "_version.py"
 
 [project.urls]
-Homepage = "https://gitlab.ewi.tudelft.nl/patmdegroot/REITcourse"
+Homepage = "https://gitlab.ewi.tudelft.nl/patmdegroot/REITcourseDelft"
 
 [project.scripts]
 main_script = "reitcourse.main:main"

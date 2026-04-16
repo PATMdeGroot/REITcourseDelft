@@ -2,11 +2,12 @@ site_name: REITcourse
 site_description: Documentation for REITcourse
 site_author: Peter de Groot
 
-repo_url: https://gitlab.ewi.tudelft.nl/patmdegroot/REITcourse
+repo_url: https://github.com/PATMdeGroot/REITcourseDelft
 
 nav:
   - Home:
       - index.md
+  - My First Page: my-first-page.md
 
 theme:
   language: en

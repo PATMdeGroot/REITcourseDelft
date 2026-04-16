@@ -2,14 +2,24 @@
 
 from reitcourse import __version__
 
+
 def foo1(a):
-  b = 0
-  e=15
-  c = a + 1  
-  if a > 0:
-    if a > 10:
-      return 10
-  return a + c
+    """ " Does something silly with the numbers.
+
+    Args:
+        a: The first number.
+
+    Returns:
+        a with some c.
+    """
+    b = 0
+    e = 15
+    c = a + 1
+    if a > 0:
+        if a > 10:
+            return 10
+    return a + c
+
 
 def add(a: int, b: int) -> int:
     """Adds two positive numbers together.
